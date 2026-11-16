@@ -1,2 +1,2 @@
 # GitProgram04
-Learnng rebase and fetch commands
+Learning rebase and fetch commands
